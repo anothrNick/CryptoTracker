@@ -4,16 +4,7 @@ CryptoTracker makes it easy for you to collect, store, analyze, visualize, and m
 
 Pull Requests welcome and encouraged.
 
-# Supported Exchanges
- 1. [BitFinex](https://bitfinex.com/)
- 2. [BitTrex](https://bittrex.com/)
- 3. [Bitmex](https://bitmex.com/)
- 4. [GDAX](https://gdax.com)
- 5. [Gemini](https://gemini.com)
- 6. [Kraken](https://kraken.com)
- 7. [OKCoin](https://www.okcoin.com/)
- 8. [Poloniex](https://poloniex.com)
- 9. [BitMex](https://www.bitmex.com)
+# [CCXT Supported Exchanges](https://github.com/ccxt/ccxt#supported-cryptocurrency-exchange-markets)
 
 # Screenshots
 

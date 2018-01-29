@@ -4,6 +4,7 @@
 #
 server.name: kibana
 server.host: "0"
+server.port: 5601
 elasticsearch.url: http://elasticsearch:9200
 
 ## Disable X-Pack
